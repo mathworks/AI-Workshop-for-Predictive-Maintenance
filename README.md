@@ -18,7 +18,7 @@ MathWorks instructors and teaching assistants (TAs) will be available throughout
 
 2. Saxena, Abhinav, Kai Goebel, Don Simon, and Neil Eklund. "Damage propagation modeling for aircraft engine run-to-failure simulation." In Prognostics and Health Management, 2008. PHM 2008. International Conference on, pp. 1-9. IEEE, 2008.
 
-3. Saxena, Abhinav, Kai Goebel. "Turbofan Engine Degradation Simulation Data Set." NASA Ames Prognostics Data Repository https://data.nasa.gov/Aerospace/CMAPSS-Jet-Engine-Simulated-Data/ff5v-kuh6, NASA Ames Research Center, Moffett Field, CA
+3. Saxena, Abhinav, Kai Goebel. "Turbofan Engine Degradation Simulation Data Set." NASA Ames Prognostics Data Repository https://phm-datasets.s3.amazonaws.com/NASA/6.+Turbofan+Engine+Degradation+Simulation+Data+Set.zip, NASA Ames Research Center, Moffett Field, CA
 
 ## Relevant products
 * [MATLAB](https://www.mathworks.com/products/matlab.html)
