@@ -1,17 +1,16 @@
 # AI Workshop for Predictive Maintenance
 
 ## Agenda
-Artificial intelligence (AI) is rapidly becoming a critical component of many engineering systems and disciplines today. In the field of predictive maintenance, AI is being used to design and develop smarter ways to perform anomaly detection, identify faults, and estimate remaining useful life of machines.  
-
-In today’s hands-on workshop, you will write and execute code examples in MATLAB&reg; Online&trade; – entirely in the browser – to learn and explore how to apply principles of AI to predictive maintenance: machine learning, deep learning, feature extraction, and domain-specific data processing. 
+Engineers are using AI to design smarter ways to detect anomalies, identify faults, and estimate the remaining useful life of machines. 
+In this hands-on workshop, you will write and execute code examples in MATLAB&reg; Online&trade; – entirely in the browser – to learn and explore how to apply principles of AI to predictive maintenance and anomaly detection: machine learning, deep learning, feature extraction, and domain-specific data processing. 
 
 This interactive hands-on session will include the following: 
 
-* Familiarizing yourself with MATLAB Online and AI tools with an introductory example that trains a machine learning model to classify faults 
-* Exploring how to extract features in the time and frequency domains, and rank them to obtain the most relevant features to train your AI model 
-* Diving deep into an advanced, predictive maintenance workflow that covers anomaly detection and remaining useful life estimation 
+* Familiarize yourself with MATLAB Online and AI tools with an introductory example that trains a machine learning model to classify faults.
+* Interactively extract, analyze, and rank features from machine sensor data, then train and compare multiple AI models based on these features. 
+* Diving deep into an advanced, predictive maintenance workflow that covers anomaly detection and remaining useful life estimation.
 
-MathWorks instructors and teaching assistants (TAs) will be available throughout the session to guide you. If the event is being held onsite, please bring your laptop and install the Google Chrome browser beforehand. 
+MathWorks instructors and teaching assistants will be available throughout the session to guide you. If the event is being held onsite, please bring your laptop. 
 
 ## Data
 1. Verma, Nishchal K., Rahul Kumar Sevakula, Sonal Dixit, and Al Salour. “Intelligent Condition Based Monitoring Using Acoustic Signals for Air Compressors.” IEEE Transactions on Reliability 65, no. 1 (March 2016): 291–309. https://doi.org/10.1109/TR.2015.2459684.
@@ -27,4 +26,4 @@ MathWorks instructors and teaching assistants (TAs) will be available throughout
 * [Statistics and Machine Learning Toolbox&trade;](https://www.mathworks.com/products/statistics.html)
 * [System Identification Toolbox&trade;](https://www.mathworks.com/products/sysid.html)
 
-Copyright 2022, The MathWorks, Inc.
+Copyright 2025, The MathWorks, Inc.
